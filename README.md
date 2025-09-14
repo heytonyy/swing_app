@@ -13,7 +13,7 @@ A simple Java Swing application for managing tasks. Perfect for AP Computer Scie
 1. Clone this repository:
 ```bash
    git clone https://github.com/heytonyy/swing_app.git
-   cd todo-list-app
+   cd swing_app
 ```
 
 2. Compile the Java files:
